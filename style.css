@@ -1,0 +1,38 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+body {
+    background-image: linear-gradient(to right,#D9A679,#8C3F23);
+}
+h1{
+    font-family:'Rye', cursive,Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color:#F2D0A7 ;
+    text-shadow: 1px 1px 2px;
+    color: #8C3F23;
+    font-weight: lighter;
+    font-style: italic;
+
+}
+h2{
+    font-style: italic;
+    color: #8C3F23;
+}
+main{
+    width: 600px;
+    padding: 10px;
+    margin:auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+.basico{
+    color: blue;
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+.nome {
+    color: #8C3F23;
+}
+    
